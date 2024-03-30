@@ -1,4 +1,7 @@
 How to: 
+
+I had mine machined by PCBway, just upload the .step and the .png drawing file . make all the same selections as in the "machining instructions image) You could use any cnc serrvice you wish.
+
 Seperate front section of the blank by sawing through the tabs holding it to the main body of the too (I used a hack saw).
 
 File away tabs.
